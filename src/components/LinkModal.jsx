@@ -44,7 +44,7 @@ const LinkModal = ({ className = '', person = null, show = false, hide = () => {
             <Modal.Header closeButton />
             <Modal.Body>
                 <p>
-                    now just copy the link and share with the person. don&apos;t shy and wish you
+                    Now just copy the link and share with the person. don&apos;t shy and wish you
                     all the best.
                 </p>
 

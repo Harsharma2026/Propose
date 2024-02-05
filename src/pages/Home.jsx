@@ -13,18 +13,18 @@ const Home = ({ className = '' }) => (
                             Afraid To <font className="text-danger">Propose</font> Someone?
                         </h1>
                         <p className="hero_text-description">
-                            don’t worry I am here to help you. enter your valentines name and generate a propose link.
+                            Don’t worry I am here to help you. enter your valentines name and generate a propose link.
                         </p>
 
                         <ProposeForm className="hero_text-form mt-4 mt-md-5" />
                         <p className="hero_credit">
                             developed by{' '}
                             <a
-                                href="https://tonmoydeb.com"
+                                href="https://portfolio-eight-psi-48.vercel.app/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                @tonmoydeb
+                                @Harsharma2026
                             </a>
                         </p>
                     </div>
