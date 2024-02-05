@@ -8,8 +8,8 @@ const LinkModal = ({ className = '', person = null, show = false, hide = () => {
     const [proposeLink, setProposeLink] = useState(false);
     const [copied, setCopied] = useState(false);
 
-    // generate the link
-    useEffect(() => {
+     // generate the link
+     useEffect(() => {
         if (!person || typeof person !== 'string' || !person.length) {
             setProposeLink(false);
         } else {
